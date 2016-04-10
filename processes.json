@@ -1,0 +1,6 @@
+{
+  "apps": [{
+    "name": "adb monitor",
+    "script": "app.js"
+  }]
+}
